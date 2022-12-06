@@ -1,2 +1,2 @@
 # Cafe-3-NodeJS
-Front -end node
+Front-end nodeJs and react Lectures
